@@ -38,3 +38,9 @@ If nothing happens, it usually means:
 Steam recording folders aren’t in the expected location
 or ffmpeg isn’t installed / not in PATH
 or timeline files don’t exist in the timeline folder
+
+
+Output Example:
+
+
+<img src="explorer_2026-07-01_01-00-43.png" alt="Alt text" width="1200">
