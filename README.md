@@ -24,7 +24,9 @@ python exporter.py
 Before running, you MUST edit these lines in the script to match your SteamID3 and recording location:
 
 TIMELINE_DIR = Path(r"C:\Games\Steam\userdata\userid\gamerecordings\timelines")
+
 VIDEO_DIR = Path(r"C:\Games\Steam\userdata\userid\gamerecordings\video")
+
 OUTPUT_DIR = Path(r"D:\Recordings\Achievements")
 
 Make sure those folders actually exist on your system or change them to where your Steam recordings are stored.
