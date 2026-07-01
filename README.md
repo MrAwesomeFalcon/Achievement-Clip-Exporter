@@ -36,7 +36,9 @@ When you run it, it will scan Steam recording folders, match them to timeline fi
 If nothing happens, it usually means:
 
 Steam recording folders aren’t in the expected location
+
 or ffmpeg isn’t installed / not in PATH
+
 or timeline files don’t exist in the timeline folder
 
 
