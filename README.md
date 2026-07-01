@@ -31,7 +31,7 @@ OUTPUT_DIR = Path(r"D:\Recordings\Achievements")
 
 Make sure those folders actually exist on your system or change them to where your Steam recordings are stored.
 
-When you run it, it will scan Steam recording folders, match them to timeline files, and automatically export short achievement clips (30 seconds before and after each achievement) into your output folder.
+When you run it, it will scan Steam recording folders, match them to timeline files, and automatically export short achievement clips (30 seconds before and after each achievement by default) into your output folder.
 
 If nothing happens, it usually means:
 
